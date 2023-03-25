@@ -1,1 +1,2 @@
 b file
+new file b
